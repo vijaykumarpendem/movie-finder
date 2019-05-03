@@ -1,3 +1,6 @@
+Application is deployed in Heroku:
+http://movie-finder-vkp.herokuapp.com/
+
 App configuration:
 - This application is developed using React.js, bootstrap.
 - It uses the opensource OMDB API.
